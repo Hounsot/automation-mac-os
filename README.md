@@ -1,6 +1,9 @@
 # Удалить LottieLab вотермарку
 
-Удаляет слой-вотермарк LottieLab из Lottie JSON-файлов
+Удаляет вотермарк LottieLab из Lottie JSON-файлов прямо внутри finder
+
+![Finder](assets/finder.png)
+
 
 ## Установка на macOS (Quick Action для Finder)
 
@@ -23,6 +26,7 @@
 ## Требования и устранение проблем
 
 При первом использовании у вас может появиться следующая ошибка:
+
 ![Не хватает чего-тотам](assets/errorCLT.png)
 
 Для работы нужен Python 3. На macOS он идёт в комплекте с **Command Line Tools**. Если они ещё не установлены:
