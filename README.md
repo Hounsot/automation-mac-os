@@ -4,8 +4,6 @@
 
 ## Установка на macOS (Quick Action для Finder)
 
-### Способ 1 — Установить готовый .workflow (рекомендуется)
-
 1. Скачай файл **Remove LottieLab Watermark.workflow** с [Яндекс Диска](https://disk.360.yandex.ru/d/dBvfL-fqdiTZLQ)
 2. Дважды кликни по нему
 3. В появившемся диалоге нажми **Install**
